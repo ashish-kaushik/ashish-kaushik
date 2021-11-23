@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @ashish-kaushik
+- 🎓 I'm a graduate student at Carnegie Mellon University
 - 👀 I’m interested in cybersecurity, machine learning
 - 🌱 I’m currently learning cybersecurity
 - 💞️ I’m looking to collaborate on projects for network analysis, malware analysis etc.
