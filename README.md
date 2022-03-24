@@ -2,7 +2,7 @@
 - 🎓 I'm a graduate student at Carnegie Mellon University
 - 👀 I’m interested in cybersecurity, machine learning
 - 🌱 I’m currently learning cybersecurity
-- 💞️ I’m looking to collaborate on projects for network analysis, malware analysis etc.
+- 💞️ I’m looking to collaborate on projects for application security, malware analysis etc.
 - 📫 How to reach me: drop me a message on my linkedin: https://www.linkedin.com/in/ashishkaushik23/
 
 <!---
